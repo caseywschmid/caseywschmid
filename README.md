@@ -1,9 +1,7 @@
-### Hi there 👋
-
-
 - 🔭 I’m currently working on Shopify Projects
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Shopify Store Setup
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+          email: caseywschmid@gmail.com
+          phone: +34 666 679 310
 - ⚡ Fun fact: I am an ex Nuclear Reactor Operator
