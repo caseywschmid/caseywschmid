@@ -1,5 +1,5 @@
 Latest Shopify Store: https://z7r5p73uwr988c9q-67575513388.shopifypreview.com
--                     password: saghew
+                      - password: saghew
 
 - 🔭 I’m currently working on Shopify Projects
 - 💬 Ask me about Shopify Store Setup
