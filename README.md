@@ -4,4 +4,4 @@
 - 📫 How to reach me: 
           email: caseywschmid@gmail.com
           phone: +34 666 679 310
-- ⚡ Fun fact: I used to operate Nuclear Reactors.
+- ⚡ Fun fact: I used to operate nuclear reactors.
