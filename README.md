@@ -1,9 +1,6 @@
-Latest Shopify Store: https://925qld9inpazinlz-67575513388.shopifypreview.com
-                      - password: saghew
-
 - 🔭 I’m currently working on Shopify Projects
 - 💬 Ask me about Shopify Store Setup
 - 📫 How to reach me: 
--           email: caseywschmid@gmail.com
+-           email: info@caseywschmid.com
 -           phone: +34 666 679 310
 - ⚡ Fun fact: I used to operate nuclear reactors.
