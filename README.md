@@ -7,4 +7,4 @@
 -           phone: +34 666 679 310
 - ⚡ Fun fact: I used to operate nuclear reactors.
 
-<img src="https://www.codewars.com/users/caseywschmid/badges/large">
+<img src="https://www.codewars.com/users/caseywschmid/badges/small">
